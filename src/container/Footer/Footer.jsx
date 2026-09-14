@@ -39,7 +39,10 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">2026 DelMundo. All Rights reserved.</p>
+      <p className="p__opensans" style={{ marginTop: '0.5rem' }}>
+        Made by <a href="https://lennoxlewis.co.ke" target="_blank" rel="noreferrer" style={{ color: '#DCCA87', textDecoration: 'underline' }}>Lennox Lewis</a>
+      </p>
     </div>
 
   </div>

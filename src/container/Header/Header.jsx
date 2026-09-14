@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>Experience the artistry of global gastronomy at DelMundo. We blend heritage flavors with contemporary culinary mastery to create unforgettable dining moments.</p>
       <button type="button" className="custom__button">Explore Menu</button>
     </div>
 
